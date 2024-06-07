@@ -1,0 +1,57 @@
+
+h1 {
+    font-weight: bold;
+}
+h2 {
+
+
+}
+h3 {font-weight: bold;
+
+}
+th {
+    background: rgb(106, 182, 249);
+}
+a {font: weight 100px;
+}
+
+
+.responsive-img {
+    max-width: 100%;
+    height: auto;
+}
+
+.adobe-stock {
+    position: sticky;
+    top: 0;
+}
+
+.stock-img {
+    margin: 19px 10px 20px;
+    position: sticky;
+}
+
+.stock-link {
+    margin-left: 8px;
+    font-weight: 120;
+    font-size: 15px;
+    position: sticky;
+}
+
+.stock-link-small {
+    font-size: 10px;
+    margin-left: 8px;
+    font-weight: 120;
+}
+
+.parallax-container {
+    height: 400px;
+}
+
+.modal .modal-footer .btn-flat .modal-close{
+    margin: 6px 0;
+    margin-top: 6px;
+    margin-right: 0px;
+    margin-bottom: 6px;
+    margin-left: 0px;
+}
